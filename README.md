@@ -1,4 +1,4 @@
-\# Supply Chain Delivery Performance Analysis
+# Supply Chain Delivery Performance Analysis
 
 
 
@@ -10,7 +10,7 @@ End-to-end order fulfillment analysis and predictive insights for a global e-com
 
 
 
-\## 📊 Key Metrics
+## 📊 Key Metrics
 
 
 
@@ -36,15 +36,15 @@ End-to-end order fulfillment analysis and predictive insights for a global e-com
 
 
 
-\---
+---
 
 
 
-\## 🔍 Key Findings
+## 🔍 Key Findings
 
 
 
-\### Profitability
+### Profitability
 
 \- \*\*80.7%\*\* of orders are profitable, \*\*18.7%\*\* are loss-making, and \*\*0.6%\*\* break even.
 
@@ -54,7 +54,7 @@ End-to-end order fulfillment analysis and predictive insights for a global e-com
 
 
 
-\### Bottlenecks by Shipping Mode
+### Bottlenecks by Shipping Mode
 
 Shipping mode is the single most impactful variable:
 
@@ -74,7 +74,7 @@ Shipping mode is the single most impactful variable:
 
 
 
-\### Regional \& Segment Performance
+### Regional \& Segment Performance
 
 \- All regions cluster tightly between \*\*55–59%\*\* delay rate, confirming a \*\*company-wide systemic issue\*\* rather than a localized failure.
 
@@ -84,7 +84,7 @@ Shipping mode is the single most impactful variable:
 
 
 
-\### Time-Based Patterns
+### Time-Based Patterns
 
 \- \*\*Peak delay months:\*\* August \& September (55.4%), December (55.2%) — driven by mid-year promotions and holiday surge.
 
@@ -94,7 +94,7 @@ Shipping mode is the single most impactful variable:
 
 
 
-\### Root Cause Analysis (Central Africa — highest-delay region at 58.7%)
+### Root Cause Analysis (Central Africa — highest-delay region at 58.7%)
 
 Top drivers of late delivery:
 
@@ -114,7 +114,7 @@ Top drivers of late delivery:
 
 
 
-\## 🤖 Predictive Model
+## 🤖 Predictive Model
 
 
 
@@ -142,7 +142,7 @@ A \*\*Random Forest classifier\*\* was trained to flag at-risk orders before shi
 
 
 
-\## ✅ Strategic Recommendations
+## ✅ Strategic Recommendations
 
 
 
@@ -172,7 +172,7 @@ A \*\*Random Forest classifier\*\* was trained to flag at-risk orders before shi
 
 
 
-\## 🎯 Targets
+## 🎯 Targets
 
 
 
