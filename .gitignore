@@ -1,0 +1,9 @@
+# Data files
+*.csv
+
+# SQL backups
+*.bak
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
